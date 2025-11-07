@@ -1,0 +1,1001 @@
+1. Age,2. Gender,3. University,4. Department,5. Academic Year,6. Current CGPA,7. Did you receive a waiver or scholarship at your university?,1. Question,2. Question,3. Question,4. Question,5. Question,6. Question,7. Question,8. Question,9. Question,10. Question,Stress Value,Stress Label
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,0,3,4,2,3,3,4,1,2,25,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,1,1,3,3,2,1,1,0,1,3,16,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,4,3,1,3,1,3,2,4,3,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,3,4,2,3,2,3,2,2,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,1,2,3,3,2,1,3,0,3,1,19,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,Yes,4,2,2,2,4,4,4,3,4,2,31,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Other,3.00 - 3.39,No,3,3,3,2,0,3,2,4,2,2,24,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,1,0,2,3,3,4,4,4,3,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,Yes,3,2,3,2,3,3,2,1,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.00 - 2.49,No,2,2,0,3,3,2,4,1,4,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,Yes,3,2,3,2,4,3,4,3,3,1,28,High Perceived Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,3,2,2,3,3,2,3,4,1,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,4,2,3,1,4,4,4,3,2,4,31,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,3,1,2,1,2,2,3,1,3,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,2,3,3,2,3,4,2,4,2,4,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,Yes,3,4,3,1,0,4,3,3,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,Yes,1,2,2,1,0,3,1,3,4,3,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,1,3,3,2,4,3,3,0,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,2,2,0,1,2,1,2,4,1,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,1,3,4,3,2,4,1,4,1,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,2,3,2,2,1,3,2,3,3,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,4,3,3,4,0,0,3,4,2,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,4,3,2,4,4,4,4,2,1,32,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,1,3,2,2,0,2,4,3,2,3,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,1,3,2,3,3,2,2,3,3,1,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,2,2,2,2,1,3,1,0,2,4,19,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Other,3.00 - 3.39,No,4,0,3,3,4,1,3,0,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,Yes,1,4,2,1,4,2,3,2,0,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,3,2,3,4,3,3,2,1,1,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,1,1,3,2,3,0,2,2,1,2,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,3,2,2,0,2,3,2,2,3,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,2,2,3,3,4,0,2,2,3,4,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.00 - 2.49,No,3,3,2,2,4,2,3,2,4,0,25,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.80 - 4.00,No,2,3,1,3,4,3,3,1,2,4,26,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,Yes,3,2,3,2,3,3,4,0,3,3,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,No,2,3,1,3,2,4,3,3,3,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,No,3,2,2,1,4,3,2,3,2,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.40 - 3.79,No,4,2,4,3,2,2,4,2,2,2,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,1,3,2,3,3,4,3,3,3,4,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,4,3,4,2,1,3,2,3,1,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,3,3,4,1,4,3,3,2,0,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Other,2.50 - 2.99,No,1,2,2,2,1,3,2,3,1,0,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,2,3,0,4,2,4,3,4,3,1,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,1,1,3,2,3,3,2,3,1,3,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,4,2,2,3,2,3,2,1,3,25,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,3,2,1,0,3,3,1,3,2,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,1,3,3,2,2,0,2,1,1,1,16,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,3,0,0,3,0,2,4,3,1,2,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,3,2,4,4,3,2,3,4,4,2,31,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,4,2,1,3,4,1,1,3,0,2,21,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,Yes,3,4,1,3,3,0,2,4,3,4,27,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,4,3,1,3,2,1,2,2,2,3,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,3,4,4,0,4,3,3,4,3,1,29,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,Yes,2,2,3,2,2,3,3,3,3,4,27,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.40 - 3.79,No,3,2,3,3,3,4,3,0,2,2,25,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Other,2.00 - 2.49,No,2,1,2,4,2,2,3,3,3,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,2,3,2,4,2,3,3,2,2,1,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.00 - 2.49,No,2,2,2,2,3,4,2,0,3,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,No,3,4,2,2,3,1,1,3,2,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Other,3.80 - 4.00,No,3,4,3,2,2,3,3,2,4,2,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,2,4,3,4,2,3,4,3,3,0,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,2,3,2,4,0,1,3,2,4,1,22,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,2,3,4,3,3,4,3,1,3,1,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,3,3,1,2,2,3,3,4,2,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,2,1,4,3,1,0,4,2,3,1,21,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,Yes,3,3,0,2,3,1,2,3,4,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,2,0,2,2,3,0,2,3,4,0,18,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.80 - 4.00,No,2,2,2,3,3,2,4,3,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,1,1,2,0,3,3,4,4,3,1,22,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,Yes,2,1,3,1,4,3,2,3,2,4,25,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,No,4,2,2,4,4,2,2,2,3,4,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,2,2,2,3,3,4,2,4,1,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,1,3,3,2,3,2,1,1,2,3,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,Yes,2,1,3,3,2,0,4,3,4,0,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,2,3,3,2,4,2,2,4,1,4,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,0,1,2,3,2,3,4,3,3,3,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,2,3,3,3,2,2,1,3,3,0,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,Yes,3,3,3,3,2,2,3,3,1,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,3,3,2,3,1,1,0,3,2,1,19,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Other,2.50 - 2.99,No,2,3,2,2,4,3,3,4,3,2,28,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,Yes,2,2,2,2,3,4,3,2,1,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,4,3,1,2,3,2,3,1,3,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,2,2,2,2,3,2,1,2,4,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,Yes,2,2,1,3,2,3,2,3,2,1,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,Yes,2,3,3,2,0,3,1,2,1,2,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.00 - 2.49,No,2,0,3,1,3,2,2,0,2,1,16,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,3,3,4,2,3,4,3,2,3,3,30,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,Yes,2,3,3,4,2,3,3,4,2,1,27,High Perceived Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,3,2,1,2,3,2,3,3,0,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.00 - 2.49,Yes,0,1,4,3,2,3,3,2,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,Yes,2,1,4,2,2,4,2,1,4,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,Yes,3,4,2,1,1,3,2,2,2,3,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,3,3,2,2,0,1,1,2,2,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,Yes,3,1,4,3,3,2,3,1,4,2,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,Yes,2,2,3,3,3,2,3,4,3,3,28,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,3,3,4,4,2,2,1,4,3,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Other,2.00 - 2.49,No,1,3,1,2,3,3,1,1,3,2,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.00 - 2.49,No,4,0,1,1,3,3,4,1,4,3,24,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,1,2,2,4,2,3,3,2,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.00 - 2.49,Yes,4,4,3,2,1,4,3,2,4,0,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,2,0,3,3,4,2,2,2,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,3,2,4,3,3,4,2,2,3,1,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,2,4,2,2,4,3,4,2,2,1,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,4,3,0,3,2,2,3,3,2,3,25,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,1,2,3,1,3,3,2,3,3,4,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,1,1,3,2,2,1,3,3,2,4,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.80 - 4.00,No,2,0,1,1,2,3,3,2,3,1,18,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.00 - 2.49,Yes,1,2,2,3,3,3,2,4,2,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,1,4,3,2,2,2,2,4,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,2,3,3,1,3,1,1,1,1,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,4,3,2,4,2,3,1,2,3,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,2,4,2,3,0,2,3,3,3,3,25,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,4,2,4,3,3,0,2,1,1,4,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.00 - 2.49,No,3,1,3,2,2,2,3,2,3,0,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,2,3,2,2,1,3,4,3,2,2,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,4,2,2,1,4,1,3,2,3,25,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,3,3,3,3,1,4,2,2,2,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,4,1,2,4,3,3,3,3,1,4,28,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,2,3,1,4,1,3,3,4,4,1,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,3,3,3,4,3,2,3,2,0,3,26,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,1,4,2,4,0,3,2,3,3,3,25,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,1,1,3,2,2,2,2,0,2,0,15,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,Yes,0,3,1,3,4,2,3,1,3,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.80 - 4.00,No,4,4,3,4,3,3,4,3,2,3,33,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.40 - 3.79,No,3,2,2,2,1,0,2,1,3,1,17,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,2,0,4,3,3,4,0,3,2,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,1,1,2,2,3,2,1,3,3,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,Yes,2,2,4,3,3,2,4,3,1,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,No,1,2,4,3,3,2,3,3,3,4,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.00 - 2.49,No,2,4,2,4,3,4,2,2,2,2,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,2,3,2,4,3,3,3,0,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,2,3,3,2,2,2,1,2,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Other,3.00 - 3.39,Yes,3,3,4,3,3,2,2,3,2,4,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,Yes,1,1,2,2,2,3,1,2,2,0,16,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,0,2,3,3,0,3,1,3,3,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.00 - 2.49,No,1,3,1,3,0,1,2,4,2,1,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,2,4,2,3,1,2,3,4,2,0,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,Yes,4,3,4,2,3,4,3,0,1,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,3,3,2,3,3,1,4,3,2,27,High Perceived Stress
+27-30,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,3,1,2,3,3,4,4,1,3,3,27,High Perceived Stress
+27-30,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,No,2,4,1,2,0,3,3,4,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Other,2.50 - 2.99,Yes,2,1,3,1,2,4,4,2,3,4,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.00 - 2.49,No,1,3,3,4,4,2,3,2,3,3,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,4,2,2,3,2,3,1,1,2,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,No,3,4,4,3,3,0,2,1,3,3,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,1,3,0,2,3,3,3,3,3,4,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,3,3,2,2,3,2,0,4,3,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,2,2,4,2,3,2,0,3,2,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,3,2,2,2,4,4,1,3,1,4,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,Yes,4,3,2,3,2,4,2,3,1,1,25,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,3,3,3,4,0,2,2,3,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.00 - 2.49,Yes,3,1,3,2,2,3,2,0,4,4,24,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.40 - 3.79,No,1,4,1,1,2,2,1,0,2,4,18,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,1,4,4,2,1,2,3,2,1,2,22,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,1,2,3,1,3,3,3,2,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,0,3,1,1,2,2,2,1,3,3,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,Yes,3,3,3,4,2,4,0,1,4,2,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,3,2,2,3,2,1,1,1,3,3,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,1,2,2,3,4,3,2,4,4,2,27,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,3,3,3,2,3,3,1,1,0,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,1,3,4,4,3,2,2,3,1,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.00 - 2.49,Yes,2,2,1,3,3,2,3,3,1,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,3,2,3,3,3,3,2,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,2,2,3,2,1,1,2,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,2,3,2,4,4,2,2,2,2,2,25,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,2,1,2,3,1,3,3,1,2,1,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Other,2.50 - 2.99,Yes,2,4,1,4,2,1,4,2,2,0,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.00 - 2.49,Yes,4,2,3,1,2,2,3,1,4,1,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,Yes,1,2,2,2,2,2,3,3,1,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,1,2,1,2,2,1,2,3,2,3,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,1,2,3,2,3,3,2,3,3,1,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,No,3,4,3,4,1,3,4,2,0,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,Yes,1,2,2,0,3,4,0,2,3,3,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,Yes,3,3,2,1,2,3,4,3,3,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,3,1,3,2,1,4,3,2,4,4,27,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.80 - 4.00,No,3,2,2,1,1,3,3,3,4,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,4,2,2,3,3,0,3,2,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.40 - 3.79,Yes,1,3,3,3,2,4,3,2,3,2,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,1,2,0,3,3,3,2,2,1,3,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,2,3,1,0,3,0,1,2,2,1,15,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,2,0,2,3,3,2,1,1,1,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,2,2,1,2,2,4,4,0,2,1,20,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,1,3,1,1,2,3,3,1,4,3,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,4,3,4,3,2,3,2,1,2,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,0,2,2,3,3,3,1,3,3,0,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,4,1,3,2,4,3,3,2,3,28,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.50 - 2.99,No,3,3,2,3,3,1,3,2,2,2,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,2,2,4,0,4,3,3,4,4,3,29,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,1,3,3,4,1,2,3,4,2,2,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.40 - 3.79,No,1,3,2,3,1,3,2,4,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,3,3,4,4,3,3,3,3,2,4,32,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Other,3.40 - 3.79,No,3,2,2,0,2,1,2,2,1,1,16,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Other,3.00 - 3.39,No,3,3,2,4,0,2,4,1,2,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,4,1,2,3,4,3,3,3,3,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,3,3,2,3,2,1,2,3,1,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,1,3,2,1,4,2,2,3,1,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Other,2.00 - 2.49,No,2,1,3,3,3,3,3,4,1,3,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,Yes,3,3,2,4,3,2,1,3,3,4,28,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,2,4,3,3,2,2,2,2,3,2,25,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,1,4,1,3,2,4,3,1,3,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,2,1,4,3,2,2,0,2,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,2,1,2,2,1,2,3,3,4,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,4,3,4,3,2,3,1,3,3,2,28,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,3,1,2,2,2,3,3,3,3,1,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,No,1,4,3,4,1,4,1,3,3,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,1,2,1,2,4,0,4,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,2,1,3,3,3,4,3,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,2,2,1,3,1,2,3,3,4,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,2,2,2,3,0,0,2,1,4,1,17,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.00 - 2.49,Yes,1,3,1,3,3,2,2,4,0,1,20,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,2,2,1,4,4,1,3,3,1,4,25,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,Yes,1,1,3,4,2,3,3,1,4,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,2,2,0,1,1,3,4,1,2,4,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,No,2,3,3,2,3,0,4,4,4,1,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,3,1,2,0,4,3,3,0,2,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,3,3,3,2,3,2,2,2,1,3,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.00 - 2.49,No,1,3,3,3,3,2,2,2,1,4,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,2,3,2,4,2,3,3,3,1,1,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,2,4,2,3,3,2,1,3,2,2,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,1,4,3,1,1,2,2,2,2,2,20,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,No,3,4,4,1,3,1,1,2,3,4,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,3,2,1,3,3,2,1,4,4,4,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,1,1,1,3,4,3,1,3,2,4,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,2,2,4,2,2,4,2,4,3,4,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,1,4,2,4,0,2,3,2,3,0,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,Yes,3,4,3,4,3,2,2,2,3,0,26,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,1,4,2,2,3,3,2,2,3,1,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,4,1,1,4,3,4,1,3,0,2,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,Yes,3,4,3,2,1,2,3,1,0,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,2,2,3,3,2,2,2,2,1,4,23,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,3,0,2,2,3,3,3,0,1,1,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,4,2,2,1,2,3,4,2,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,3,0,3,4,4,1,1,3,2,4,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.80 - 4.00,No,1,3,3,2,2,3,2,0,4,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.00 - 2.49,No,2,2,1,3,3,1,2,3,4,1,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,Yes,3,2,3,2,3,3,4,4,4,2,30,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.00 - 2.49,No,3,3,3,0,3,3,3,2,4,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.40 - 3.79,No,3,4,3,1,2,4,4,3,2,3,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,Yes,4,3,3,2,3,2,2,4,3,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,4,2,1,3,2,2,4,4,1,0,23,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,4,3,3,2,3,2,1,2,3,4,27,High Perceived Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,1,4,3,3,2,4,1,1,4,3,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,1,0,3,2,1,4,1,4,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,3,2,3,2,2,4,3,2,4,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,2,2,2,2,1,1,3,3,1,20,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,No,3,0,3,4,4,3,1,3,1,1,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,1,3,2,2,1,2,0,2,0,3,16,Moderate Stress
+27-30,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,No,3,4,3,2,3,2,1,1,3,2,24,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,1,4,1,4,2,2,3,2,3,25,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,1,3,3,2,0,4,4,2,4,2,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,4,4,0,3,3,3,3,1,0,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.00 - 2.49,No,1,4,4,3,2,3,3,2,4,3,29,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,2,2,0,2,0,4,3,2,2,1,18,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,0,4,3,2,2,4,3,2,3,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.50 - 2.99,No,2,2,2,3,4,2,3,2,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,3,3,4,2,0,4,3,2,4,4,29,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,Yes,3,1,2,2,3,0,2,1,2,3,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,3,0,4,1,3,2,3,2,4,1,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,3,3,3,4,4,3,0,1,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,2,2,3,1,1,2,3,1,1,3,19,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,Yes,1,2,1,2,3,2,4,3,2,3,23,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,4,1,1,3,3,2,2,2,3,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,1,3,3,3,3,3,3,3,2,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,4,0,0,3,4,2,1,3,3,2,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,3,3,3,3,3,3,3,3,3,30,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,3,1,0,0,0,4,2,4,2,2,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,4,1,3,2,2,3,0,0,4,1,20,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.00 - 2.49,No,1,2,2,2,2,2,2,3,1,3,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,2,2,3,1,2,4,3,4,4,2,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,3,2,3,2,2,2,1,4,2,1,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,Yes,2,2,2,2,2,1,4,1,3,0,19,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,Yes,4,4,1,3,2,1,1,2,2,3,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,1,3,1,3,4,3,4,1,1,2,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,0,3,2,1,1,3,3,2,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,2,3,3,4,1,2,3,1,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,3,4,3,2,2,2,2,2,2,2,24,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,Yes,2,2,3,2,3,2,3,3,1,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,2,1,2,3,3,3,3,3,2,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,3,3,2,0,2,3,3,2,3,2,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,1,3,0,1,2,3,2,4,3,4,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,3,3,2,2,2,2,2,3,4,4,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,3,1,4,4,2,2,4,1,3,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,Yes,3,1,4,3,4,4,2,3,3,4,31,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,3,3,2,1,3,0,2,2,3,2,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,2,3,3,1,4,2,3,2,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,3,3,3,1,1,3,4,3,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,4,3,2,3,2,4,3,4,1,3,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,Yes,2,2,0,3,1,2,2,2,4,4,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Other,2.50 - 2.99,Yes,4,4,1,2,3,2,1,2,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,2,3,3,2,1,3,0,2,2,4,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,1,3,4,3,3,3,2,3,3,2,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,Yes,2,1,3,3,0,2,2,1,0,3,17,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,4,1,1,3,2,3,4,3,2,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.80 - 4.00,Yes,2,2,1,3,3,3,2,0,1,3,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,4,1,3,4,2,0,2,2,3,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,Yes,4,4,3,4,4,0,4,2,3,3,31,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,1,3,4,4,2,2,4,3,4,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,1,2,3,3,2,1,3,3,0,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,2,0,4,0,3,1,2,3,3,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,Yes,2,3,3,1,3,2,2,1,3,2,22,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.00 - 2.49,No,3,1,3,2,4,2,4,3,1,4,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Other,3.80 - 4.00,Yes,2,2,2,2,3,1,3,2,3,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,2,2,3,3,1,3,2,3,1,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,4,2,3,4,1,3,3,1,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,2,0,0,3,2,0,4,3,2,3,19,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.00 - 2.49,No,2,4,2,1,3,1,2,3,3,1,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,3,1,2,4,4,3,3,1,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,2,2,2,3,2,1,4,4,1,4,25,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,3,3,2,1,4,3,1,4,2,4,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,3,0,3,2,2,1,3,3,2,1,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,2,4,2,2,4,1,3,2,2,4,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.80 - 4.00,No,3,3,2,2,2,3,3,2,2,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,3,2,0,3,4,2,2,1,3,1,21,Moderate Stress
+27-30,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,No,2,2,3,2,1,4,2,3,2,0,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.80 - 4.00,No,2,1,2,3,3,4,3,3,3,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,4,4,2,1,3,3,2,1,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,3,0,4,3,2,3,2,1,1,0,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.00 - 2.49,No,3,3,3,2,2,2,1,2,0,2,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,3,2,4,3,3,2,0,4,4,3,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,0,4,2,3,1,4,4,3,1,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,2,1,2,3,3,2,3,1,3,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.80 - 4.00,No,3,3,3,4,2,3,4,2,0,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,2,2,3,4,2,1,3,3,1,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,2,0,0,3,2,3,4,21,Moderate Stress
+27-30,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.40 - 3.79,Yes,1,1,1,1,1,4,2,3,4,2,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.80 - 4.00,No,1,1,3,4,2,2,3,1,4,3,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.00 - 2.49,Yes,4,2,1,3,2,2,3,2,2,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,Yes,2,3,4,2,2,1,1,2,2,1,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.00 - 2.49,No,2,1,4,2,2,3,4,2,2,4,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,1,3,2,3,4,0,1,4,1,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,0,2,3,3,3,3,3,1,1,1,20,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,4,3,3,3,1,4,2,1,4,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,Yes,3,4,3,2,1,4,4,3,1,3,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,3,3,2,3,3,3,4,4,2,3,30,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,2,3,2,1,1,2,2,2,3,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.00 - 2.49,No,3,2,2,2,3,3,1,3,4,3,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Other,3.00 - 3.39,No,1,0,4,3,2,2,1,4,3,0,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,1,2,2,4,2,1,3,2,4,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,2,2,4,3,2,2,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,Yes,2,3,3,2,4,2,1,2,2,1,22,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,2,4,3,3,1,2,3,3,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,3,2,3,3,3,1,2,0,1,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,Yes,3,3,1,3,1,2,2,2,1,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,Yes,3,2,2,3,3,4,3,3,4,0,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,2,3,4,1,4,2,2,3,4,3,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,1,2,3,4,2,4,3,2,0,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,Yes,2,2,3,3,2,4,1,3,1,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,4,2,0,4,4,1,3,1,2,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,3,2,3,3,1,1,2,1,2,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,4,3,4,2,4,1,3,2,3,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,No,0,2,3,1,3,2,3,4,1,0,19,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,0,0,2,3,0,4,2,2,2,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Other,3.00 - 3.39,No,0,2,4,4,1,2,2,4,2,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.80 - 4.00,No,3,3,3,2,3,3,2,3,2,4,28,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,4,1,1,1,2,3,3,0,1,2,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,4,3,2,3,1,1,2,3,2,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,Yes,3,4,2,3,3,1,3,0,4,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,4,3,1,2,4,3,4,2,4,29,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,4,1,1,4,1,3,1,4,4,2,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,4,1,3,3,3,2,2,3,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,1,3,3,3,4,3,3,2,4,4,30,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,2,2,1,3,4,2,2,2,3,0,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,2,3,2,2,4,3,3,2,3,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,2,3,2,1,4,2,1,2,4,1,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,Other,2.50 - 2.99,No,2,2,3,2,0,2,3,2,1,3,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,2,3,3,2,3,1,3,2,0,22,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,2,2,2,3,3,2,3,1,4,4,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,1,3,3,3,2,4,2,3,3,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,1,3,3,3,2,2,3,4,0,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,Yes,3,4,1,3,3,4,3,2,3,2,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,3,3,1,3,2,4,1,4,4,1,26,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,1,4,2,2,2,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.00 - 2.49,No,4,1,2,1,3,3,2,0,3,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,4,3,3,4,2,2,2,3,3,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,2,1,3,1,4,4,4,2,4,0,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,0,1,2,2,2,2,3,3,3,3,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,3,1,3,1,3,1,4,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,No,3,2,2,2,3,2,3,4,3,3,27,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,4,3,3,4,3,2,3,3,2,3,30,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,Yes,4,1,2,2,3,1,4,3,0,2,22,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.00 - 2.49,Yes,3,2,3,0,3,2,2,1,4,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.00 - 2.49,No,3,1,1,2,3,3,3,1,3,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,0,4,3,3,2,3,3,3,2,0,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,2,3,4,2,4,3,2,2,1,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,2,3,2,3,4,2,2,2,3,4,27,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,2,2,4,1,2,2,2,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,No,3,1,4,4,1,0,3,3,3,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.00 - 2.49,No,3,4,2,2,4,3,2,1,3,2,26,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.00 - 2.49,No,2,2,3,2,4,4,4,3,2,2,28,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.00 - 2.49,No,3,2,1,3,4,2,2,1,2,4,24,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,Yes,1,3,3,4,4,0,3,1,0,1,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,0,1,4,3,1,4,2,3,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,3,3,4,2,3,3,3,2,1,2,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,3,3,3,3,3,3,4,4,3,3,32,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,3.80 - 4.00,No,4,2,3,2,1,3,3,1,3,4,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.40 - 3.79,No,2,1,3,0,3,2,2,1,3,2,19,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,2,1,3,0,3,3,3,3,4,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,2,4,2,2,3,3,1,2,0,3,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,2,3,4,2,3,2,3,0,3,3,25,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,4,2,4,0,2,3,2,0,1,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,Yes,3,1,2,3,1,1,3,4,0,3,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,4,3,4,2,2,2,3,3,2,1,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Other,2.50 - 2.99,No,2,3,3,3,1,4,2,2,1,3,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,4,2,3,2,1,2,2,2,3,1,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.80 - 4.00,No,1,2,2,1,4,3,4,2,3,4,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,2,2,2,1,3,1,2,0,2,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,2,3,0,2,2,1,0,3,0,3,16,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,2.50 - 2.99,No,2,4,2,3,3,3,2,4,3,2,28,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,3,1,3,1,3,3,4,1,3,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,4,3,2,3,1,2,4,3,2,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.00 - 2.49,No,0,2,2,1,3,1,3,1,3,3,19,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.00 - 2.49,No,2,2,4,3,3,2,4,2,3,3,28,High Perceived Stress
+27-30,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,4,2,2,3,2,1,2,0,3,4,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,2,3,2,1,2,1,4,1,2,2,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,1,2,1,2,4,2,1,4,3,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,2,3,0,1,3,2,1,2,3,3,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,2,2,3,3,3,4,1,1,3,1,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,4,1,3,2,1,2,3,4,3,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,1,3,3,2,3,3,4,4,2,28,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,3,3,1,3,3,3,2,3,1,2,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,Yes,4,1,3,4,1,3,4,4,4,2,30,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,2,3,2,3,2,2,2,2,3,3,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,1,2,2,3,3,4,1,3,3,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,2,2,0,2,2,3,2,3,1,3,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,2,1,4,3,3,3,4,2,4,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,1,2,2,3,3,2,3,3,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,4,1,1,2,2,1,2,2,3,3,21,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.00 - 2.49,Yes,3,2,4,3,3,3,3,3,0,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,3,2,2,1,0,2,2,3,4,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,3,1,3,3,2,3,2,1,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,2,1,3,1,1,4,1,4,3,23,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,Other,3.00 - 3.39,Yes,4,2,3,1,1,3,0,4,4,4,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,1,1,3,3,4,4,2,0,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,Yes,3,2,4,2,2,2,3,3,4,3,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.00 - 2.49,No,3,0,4,2,4,3,2,2,4,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,3,4,2,2,2,3,4,4,2,1,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,Yes,3,2,2,3,2,2,2,2,3,3,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,1,2,0,2,3,4,2,3,2,0,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Other,3.80 - 4.00,Yes,1,2,3,0,2,4,1,4,3,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,2.50 - 2.99,No,3,1,2,3,2,3,2,2,2,0,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,2,3,2,1,3,2,3,2,2,4,24,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,Yes,0,1,2,1,3,3,3,3,2,1,19,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,Yes,3,1,3,2,4,2,4,4,1,3,27,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Other,3.00 - 3.39,No,0,3,2,2,4,2,2,3,3,3,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Other,3.00 - 3.39,Yes,3,2,1,2,2,2,1,2,2,2,19,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,Yes,3,3,3,0,3,3,0,4,2,2,23,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,4,3,3,4,2,4,3,2,4,2,31,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,2,2,4,3,3,2,4,3,2,2,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,1,3,1,2,2,0,3,3,3,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,3,1,3,2,4,4,2,1,4,2,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,3,3,2,3,1,4,3,4,3,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,4,2,1,3,4,3,3,3,1,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.40 - 3.79,Yes,2,2,3,1,3,0,0,4,2,4,21,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,2,3,2,1,4,2,3,1,4,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Other,3.40 - 3.79,No,4,4,4,4,3,4,2,2,2,1,30,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.00 - 2.49,Yes,1,4,1,2,2,1,1,3,2,2,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,3,3,3,2,2,2,2,0,1,4,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,2,2,2,4,2,2,2,1,1,0,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,0,2,4,3,0,4,2,4,3,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,2,2,2,2,3,4,2,2,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,2,2,4,3,3,2,1,4,4,1,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,Yes,3,2,4,0,3,1,3,1,3,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.80 - 4.00,Yes,4,4,2,3,4,3,4,2,2,2,30,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,2,2,3,2,4,2,3,3,0,2,23,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,3,2,4,3,1,3,2,3,4,3,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,1,2,2,4,2,0,2,3,2,3,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,3,3,2,4,2,1,2,3,2,4,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,1,3,3,4,2,3,1,3,4,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,4,3,2,3,3,2,3,2,3,3,28,High Perceived Stress
+27-30,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,3,2,0,2,3,4,3,2,2,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,No,3,3,2,2,3,1,3,1,4,1,23,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.80 - 4.00,No,3,0,2,3,4,2,3,3,4,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,Yes,3,4,2,4,3,4,2,2,1,3,28,High Perceived Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,4,3,1,2,1,2,2,2,4,1,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,3,2,4,4,3,3,3,2,2,3,29,High Perceived Stress
+27-30,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,2,3,3,2,1,2,0,3,1,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,3,3,1,4,2,3,2,1,4,3,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,1,0,3,4,1,3,2,3,4,3,24,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,4,3,2,2,2,2,2,2,4,26,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,1,2,4,1,2,3,1,4,2,1,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,2,0,1,2,3,3,3,1,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,2,1,2,2,3,2,4,0,3,2,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,3,2,4,3,3,3,2,3,0,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,0,2,4,3,2,3,1,1,2,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,1,2,3,4,0,1,3,3,1,3,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,2,3,3,3,3,2,2,4,2,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.00 - 2.49,Yes,4,2,1,0,0,2,2,3,0,4,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,2,4,3,1,4,2,1,3,3,1,24,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,No,2,3,2,1,3,3,2,2,2,2,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,3,3,1,2,2,2,3,2,2,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,Yes,3,1,3,3,2,4,3,4,4,2,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,2,1,0,0,2,2,1,3,1,14,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,2,2,2,2,2,2,2,2,2,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,2,3,4,1,1,3,1,2,1,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,4,4,1,3,3,3,1,3,3,2,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,1,1,4,2,1,3,4,2,2,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,2,1,4,2,3,1,3,4,3,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,No,0,4,3,2,3,2,3,1,2,0,20,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.50 - 2.99,No,2,2,1,4,2,2,3,2,2,1,21,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,3,3,2,2,0,4,3,3,2,4,26,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,2,3,2,3,0,2,3,2,3,4,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,Yes,1,3,2,3,0,4,0,3,4,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Other,2.50 - 2.99,Yes,2,1,2,3,3,3,1,1,0,2,18,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.00 - 2.49,No,0,1,4,4,2,2,3,1,3,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,1,3,1,2,3,3,2,1,0,3,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,3,4,3,2,2,3,4,4,2,3,30,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Other,3.40 - 3.79,No,3,2,0,1,2,4,3,3,4,3,25,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.00 - 2.49,No,4,2,3,3,3,1,4,3,2,2,27,High Perceived Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,4,3,4,2,3,2,2,2,4,2,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.80 - 4.00,No,3,4,2,1,2,2,4,3,3,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,Yes,1,3,1,3,1,0,2,2,4,2,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,3,4,3,3,3,3,4,4,3,3,33,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Other,2.00 - 2.49,No,3,0,3,1,2,4,1,3,1,4,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,3,1,3,3,2,2,3,3,2,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,3,3,2,3,3,3,3,0,2,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,3.00 - 3.39,No,2,3,2,1,2,3,2,3,1,1,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,2,4,2,3,2,2,2,2,1,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,3,2,4,3,3,1,4,4,2,2,28,High Perceived Stress
+27-30,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,Yes,4,3,2,3,3,3,2,2,4,2,28,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.00 - 2.49,No,1,1,3,2,3,4,3,2,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,No,2,2,2,2,3,3,1,2,3,0,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,3,3,0,3,2,4,4,26,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,3,3,1,4,4,2,3,1,4,2,27,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,1,3,2,3,2,1,2,4,2,3,23,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,No,1,2,3,1,2,3,0,3,2,3,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,Yes,4,3,0,2,3,3,3,4,2,1,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.40 - 3.79,No,0,3,2,4,3,1,0,3,2,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.80 - 4.00,Yes,3,3,3,1,1,3,0,2,2,3,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,2,3,3,4,4,3,3,3,3,3,31,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.50 - 2.99,No,3,2,3,4,0,3,1,1,2,3,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,3,1,4,1,3,4,1,4,3,1,25,Moderate Stress
+27-30,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,Yes,4,1,0,4,3,1,3,2,4,3,25,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,4,2,3,2,4,4,1,2,1,4,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,0,3,3,3,1,1,2,2,2,1,18,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,1,3,3,2,3,2,1,2,3,2,22,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,2,3,2,2,2,4,3,2,1,4,25,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,3,3,1,3,2,4,3,2,3,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,4,2,4,3,1,3,3,3,2,3,28,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.00 - 2.49,No,2,2,2,0,3,3,2,3,4,3,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.00 - 2.49,No,3,2,4,3,2,3,1,2,2,3,25,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,Yes,1,1,3,1,1,3,1,2,2,2,17,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,3,1,3,2,3,1,2,4,3,2,24,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,4,3,3,2,3,3,4,1,1,0,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,2,4,3,2,3,2,2,4,2,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,1,2,2,4,2,2,2,2,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,Yes,1,0,3,1,2,2,1,3,2,3,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.00 - 2.49,Yes,3,3,3,1,4,3,3,3,3,3,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,Yes,3,2,2,0,4,4,3,3,3,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,1,3,2,2,2,3,3,4,3,0,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,Yes,2,3,1,4,1,4,4,1,3,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,2,4,4,1,2,1,2,2,2,2,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.00 - 2.49,No,3,2,1,4,2,3,1,3,1,2,22,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,No,3,3,3,3,3,3,2,3,3,1,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,0,2,2,3,3,3,3,2,4,1,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,3,2,3,3,3,3,3,2,2,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,2,3,3,3,3,3,2,2,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,2,1,1,1,1,4,3,1,2,4,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,1,3,3,3,4,3,3,3,3,4,30,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,No,3,3,3,3,2,1,4,1,3,4,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.80 - 4.00,No,4,3,3,3,4,3,3,3,0,4,30,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,2,3,1,3,1,2,3,1,3,3,22,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,No,2,3,4,1,4,2,2,2,1,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,1,1,3,3,1,4,3,3,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,3,3,4,3,2,2,4,3,3,2,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,1,3,2,2,0,3,2,2,2,2,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,Yes,2,4,3,2,3,2,3,2,1,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,3,4,4,3,4,0,3,2,4,3,30,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,1,4,4,2,2,1,2,4,2,25,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,No,2,3,2,2,4,1,3,4,3,1,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.40 - 3.79,No,2,0,2,3,3,3,1,4,2,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,3,2,2,2,3,2,4,1,1,4,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,0,3,2,1,3,2,3,0,4,3,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,1,1,2,1,2,1,1,4,3,4,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Other,3.40 - 3.79,No,4,3,2,1,2,2,1,3,4,1,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,1,0,4,2,4,3,3,3,2,1,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,Yes,3,1,1,2,4,1,2,3,2,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,4,3,3,3,4,3,0,2,4,2,28,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,2,3,1,3,4,4,3,2,3,3,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,2,4,2,1,1,3,2,4,1,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,3,1,2,3,3,1,3,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,Yes,4,3,2,2,2,1,3,1,2,4,24,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,No,4,2,3,3,4,2,4,1,0,2,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,3,0,4,1,2,4,3,2,2,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,1,1,2,1,3,3,3,3,2,3,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,3,2,4,3,3,2,2,3,1,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.80 - 4.00,Yes,2,3,2,3,2,3,2,0,2,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,2,4,1,1,2,2,4,4,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,0,3,3,2,4,0,3,1,1,2,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,1,3,3,2,3,3,4,0,3,1,23,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,No,3,1,3,3,1,3,3,2,1,0,20,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Other,3.00 - 3.39,No,2,1,3,3,3,2,4,2,3,3,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,2,3,0,1,3,4,3,2,4,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,2,3,2,3,2,2,2,4,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,4,4,4,2,2,2,2,4,3,3,30,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,1,3,2,4,4,1,2,2,1,23,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,2,4,3,2,3,3,0,2,3,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,1,2,3,2,3,3,3,3,4,1,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,2,0,2,2,3,1,2,2,4,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,4,4,3,2,1,2,3,1,2,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,2,3,2,2,3,3,4,4,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,3,3,2,0,1,2,2,1,1,2,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,3,1,3,3,2,3,2,1,2,4,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.80 - 4.00,Yes,2,3,4,1,3,4,2,2,1,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,4,1,0,4,3,2,2,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,3,2,2,3,2,2,3,0,3,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,1,3,2,3,2,3,2,1,4,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,1,1,3,3,3,2,3,2,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,3,2,2,4,1,4,3,3,3,28,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Other,3.80 - 4.00,No,4,2,3,2,3,0,4,2,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,2,2,4,3,4,2,4,2,3,3,29,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,Yes,4,2,2,3,3,4,2,3,2,3,28,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.00 - 2.49,No,3,1,4,2,3,2,0,4,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,4,4,4,1,2,2,2,3,2,26,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,Yes,0,2,1,1,2,4,2,1,3,2,18,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,1,2,2,4,2,0,4,2,3,4,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,2,4,4,3,3,3,3,4,2,31,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,1,2,4,3,4,2,1,1,2,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,Yes,2,3,1,4,4,0,1,2,2,3,22,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,No,3,4,0,3,1,4,1,0,3,4,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,3,2,1,1,1,1,3,0,2,2,16,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.40 - 3.79,Yes,1,4,4,2,2,3,3,2,4,2,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,2,3,1,1,2,2,4,2,2,3,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,2,1,3,2,3,1,4,3,2,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,3,3,3,4,0,2,3,4,3,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,Yes,3,3,0,2,4,1,2,2,2,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,1,3,3,2,3,1,2,2,3,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,4,2,3,3,3,2,2,2,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,3,2,4,4,3,2,4,0,2,4,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,3,4,2,0,2,2,3,4,3,4,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,3,3,3,2,3,2,3,4,1,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,2,2,3,1,3,4,2,1,4,2,24,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,1,3,2,3,3,4,0,1,3,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,Yes,3,2,0,1,2,3,1,1,1,4,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,Yes,3,4,2,3,2,4,3,3,3,3,30,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,Yes,3,3,2,2,2,2,3,3,3,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.80 - 4.00,Yes,2,0,3,1,4,2,2,3,1,0,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,No,4,2,3,4,2,3,3,3,2,3,29,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,3,3,2,0,3,3,3,2,2,1,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,Yes,1,1,3,2,3,2,2,3,3,3,23,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,Yes,2,0,3,0,2,2,3,3,3,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,No,3,2,3,2,3,4,2,3,3,2,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,2.50 - 2.99,No,3,2,2,3,4,3,3,2,3,2,27,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,2,2,2,2,2,2,3,3,3,4,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,No,4,2,2,1,4,3,4,3,3,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,2,1,3,2,2,2,2,3,3,2,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,2,3,2,3,1,1,2,3,2,4,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,4,3,2,3,4,2,1,3,4,3,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,4,2,1,3,3,2,2,3,3,3,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,3,2,3,3,4,0,3,3,3,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Other,2.50 - 2.99,No,4,3,2,2,3,3,4,3,3,1,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,1,1,1,2,4,2,2,2,2,0,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,4,1,2,1,3,3,1,2,3,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,2,1,2,2,3,1,2,0,2,3,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,1,3,3,2,3,1,2,3,3,2,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,2,3,2,3,2,4,2,3,2,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,Yes,2,3,2,3,4,3,2,4,3,2,28,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,2,3,3,4,2,4,3,2,3,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,1,3,4,0,2,3,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,1,2,1,3,2,2,3,2,2,2,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Other,3.40 - 3.79,No,2,3,4,3,3,2,3,1,4,2,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,Yes,3,0,2,3,2,4,2,3,3,2,24,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,2,3,2,2,0,4,3,2,3,1,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,2,3,0,2,4,3,3,3,2,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,No,3,3,2,0,2,3,3,3,3,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,4,2,3,2,3,3,2,2,1,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,3,2,3,3,1,2,2,4,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,3,3,0,0,3,3,2,1,3,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,No,3,3,1,2,2,3,3,2,3,0,22,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,1,4,2,3,3,3,2,4,3,3,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,1,2,3,3,1,0,1,4,2,1,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,No,2,3,4,2,4,2,1,1,2,3,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,3,3,1,3,2,1,1,0,4,3,21,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.40 - 3.79,No,2,4,2,2,2,2,3,1,1,1,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,1,3,2,1,1,4,1,2,3,3,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,1,3,1,2,0,0,2,4,1,4,18,Moderate Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,4,3,2,3,3,2,3,3,0,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.00 - 2.49,No,3,3,1,4,4,2,2,2,1,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,Yes,2,4,3,1,3,3,3,4,3,3,29,High Perceived Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,1,3,3,1,3,3,2,2,4,25,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,Yes,3,1,1,2,2,2,2,2,4,2,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,3,4,0,3,2,1,3,4,3,3,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,2,3,3,0,4,2,3,3,0,0,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,4,3,1,2,2,3,2,3,3,0,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,Yes,2,2,3,3,3,2,2,3,1,3,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,Yes,3,1,2,3,2,4,3,3,3,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,0,3,3,2,2,2,4,1,1,3,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,2.50 - 2.99,No,2,3,2,2,2,1,3,3,2,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.00 - 2.49,No,2,2,1,2,1,3,1,4,3,1,20,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,3,2,2,2,3,2,3,2,4,2,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,No,1,3,1,3,2,3,2,3,2,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,3,1,2,4,3,2,3,2,3,1,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,2,4,3,2,1,3,3,0,1,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,2,2,2,4,3,3,3,3,3,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,3,3,0,3,1,4,3,1,3,1,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,4,3,2,4,2,3,3,1,2,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,3,3,3,3,3,2,3,1,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Other,3.00 - 3.39,No,3,2,4,2,4,2,1,4,1,4,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,3,3,3,2,4,3,2,2,3,27,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Other,2.50 - 2.99,No,3,2,2,3,3,4,4,2,2,3,28,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.80 - 4.00,No,2,2,3,3,2,1,1,1,3,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,3,4,4,3,1,1,2,4,4,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.00 - 2.49,No,3,3,3,2,2,2,2,3,0,1,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,3,2,3,1,1,3,3,3,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,2,2,3,4,2,3,2,3,0,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Other,3.00 - 3.39,No,2,0,2,2,1,1,1,2,4,2,17,Moderate Stress
+27-30,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,3,0,3,1,3,3,4,1,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,4,3,3,0,3,4,1,3,3,2,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,Yes,3,3,3,2,3,4,3,2,2,0,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,3,3,1,2,3,2,2,4,2,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,4,3,3,3,1,3,2,3,1,3,26,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,1,0,3,1,3,4,1,2,2,1,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,2,2,2,4,2,1,1,1,1,4,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,2,3,2,4,3,3,3,3,1,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,3,2,2,2,3,2,3,1,2,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,4,1,4,2,4,2,1,1,3,0,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,2,4,3,2,0,2,1,2,1,4,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,1,2,3,2,2,1,1,3,4,0,19,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.80 - 4.00,No,2,4,3,2,1,3,3,3,4,3,28,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,Yes,2,2,4,1,0,2,3,2,1,2,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,Yes,2,4,2,3,2,2,1,1,2,3,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.50 - 2.99,Yes,3,3,2,3,3,1,3,2,3,2,25,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.00 - 2.49,No,1,4,3,2,2,4,1,3,1,1,22,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Other,2.50 - 2.99,No,3,0,2,3,3,2,4,2,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,Yes,2,3,2,3,4,3,4,2,2,1,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,Yes,3,4,4,1,3,3,3,4,4,4,33,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,2.00 - 2.49,No,1,1,3,4,2,2,4,4,4,1,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,Yes,2,1,2,3,2,1,3,4,3,2,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,1,2,2,2,2,3,3,3,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,4,4,2,1,1,1,3,1,4,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,3,3,2,1,3,1,2,2,4,2,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,2,3,1,1,2,3,2,2,4,3,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Other,2.00 - 2.49,No,2,1,3,3,4,2,2,2,1,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,4,0,2,2,3,2,3,4,1,4,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.80 - 4.00,No,2,3,2,3,3,2,1,3,3,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,1,1,2,3,2,2,2,3,3,3,22,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,No,3,3,4,3,2,3,2,1,0,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,4,2,3,3,3,2,4,1,2,28,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,0,2,1,0,2,3,3,3,4,3,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,2,3,1,2,2,3,4,1,4,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,4,1,3,3,1,2,3,4,2,2,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Other,3.40 - 3.79,No,1,3,3,0,1,2,3,2,4,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,1,1,2,0,3,2,3,1,3,3,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,3,3,2,4,2,2,2,3,3,4,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,No,4,2,1,3,3,4,1,3,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,Yes,2,2,3,2,2,3,4,1,1,2,22,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.00 - 2.49,No,4,3,3,3,3,1,2,2,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,3,1,1,3,4,0,1,4,2,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,1,3,1,2,4,0,3,3,3,1,21,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,4,2,1,0,2,2,1,3,1,1,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.40 - 3.79,No,2,3,1,4,0,1,2,2,4,0,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,Yes,2,1,3,2,2,3,0,1,2,2,18,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Other,3.00 - 3.39,No,3,3,1,1,3,4,1,2,1,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,2,1,2,2,3,3,1,2,3,2,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,1,2,1,3,3,2,1,2,3,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,0,2,4,2,1,2,3,1,2,4,21,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,2,3,4,2,3,3,3,3,3,3,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.00 - 2.49,No,3,2,2,2,1,3,2,2,3,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,4,2,4,3,3,4,3,3,2,31,High Perceived Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,4,4,2,1,2,4,2,1,3,1,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,2,1,2,3,3,3,2,2,0,0,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,2,3,0,4,0,3,1,0,3,1,17,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,1,1,3,1,2,1,3,2,4,2,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,1,2,3,4,3,3,2,1,0,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,Yes,2,3,4,4,2,2,3,4,2,1,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,3,1,4,3,2,3,3,4,1,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.80 - 4.00,No,4,3,3,2,3,3,3,2,2,1,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,4,2,3,3,3,2,3,1,2,3,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,Yes,2,2,1,3,2,1,4,3,4,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,4,1,2,4,2,0,2,3,1,3,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,2,3,1,1,3,0,2,1,1,2,16,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,1,3,2,3,2,0,3,3,4,2,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,4,3,2,2,3,1,3,3,4,1,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,No,3,2,3,1,2,2,1,3,2,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,1,2,2,2,2,2,2,3,3,4,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,Yes,2,2,4,3,2,4,2,4,3,4,30,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Other,3.40 - 3.79,No,2,0,1,2,0,2,2,4,3,3,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.00 - 2.49,No,3,2,4,3,2,1,1,2,2,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,Yes,2,3,2,4,3,3,4,3,0,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,4,4,3,2,3,4,3,3,2,0,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,1,3,2,3,2,3,2,3,4,4,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,2,2,1,2,4,2,3,4,4,1,25,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,No,2,0,4,2,3,3,4,0,4,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,3,4,2,3,4,3,1,2,4,2,28,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,Yes,2,0,3,4,3,3,2,2,3,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,3,4,3,3,3,3,3,2,2,3,29,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,4,2,2,3,1,4,3,2,3,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,4,2,2,1,2,4,0,3,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,No,3,4,3,2,0,3,4,1,3,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,4,0,1,3,3,2,2,3,1,2,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,Yes,3,3,3,0,2,3,2,3,4,4,27,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,3,3,4,2,3,3,2,2,2,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.80 - 4.00,No,2,2,1,3,2,0,1,2,2,2,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.00 - 2.49,No,2,2,1,0,3,4,3,3,3,1,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,3,3,2,1,1,4,3,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,2,3,2,3,1,2,2,4,2,1,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,2,0,2,3,2,4,4,4,3,2,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,Yes,4,4,1,4,2,2,3,4,2,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,No,2,1,3,3,2,2,2,3,1,4,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.50 - 2.99,No,1,2,1,2,3,1,3,4,2,1,20,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,3,2,2,4,1,2,2,3,3,1,23,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,1,0,3,3,2,1,3,4,4,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Other,2.00 - 2.49,Yes,1,1,2,2,3,2,1,0,3,2,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.80 - 4.00,No,2,4,2,1,1,2,3,4,4,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,No,2,2,4,3,4,4,1,2,1,2,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,2,1,3,3,4,4,3,3,1,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Other,3.00 - 3.39,Yes,3,1,3,3,1,1,3,1,3,1,20,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.00 - 2.49,No,3,3,2,3,2,3,2,2,2,1,23,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,No,2,4,3,3,2,1,2,2,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,2,2,0,4,3,0,2,2,3,4,22,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,No,2,0,1,3,3,1,3,1,4,2,20,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,3,2,2,1,3,4,2,3,2,1,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.40 - 3.79,No,1,1,2,3,3,4,3,0,2,1,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.00 - 2.49,No,0,1,3,2,1,1,2,2,3,3,18,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,2,2,3,3,1,1,1,2,3,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,Yes,2,2,3,4,3,2,0,3,3,2,24,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.80 - 4.00,Yes,1,3,3,3,3,3,1,2,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.80 - 4.00,Yes,2,2,3,3,4,3,3,2,2,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,4,4,2,2,3,2,4,2,2,4,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,4,4,3,2,2,3,2,3,0,1,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.50 - 2.99,No,3,3,2,2,2,2,3,1,3,1,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.50 - 2.99,No,2,2,1,3,2,4,1,1,2,1,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,3,2,4,3,1,3,3,2,0,4,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,No,4,2,1,3,4,2,1,4,2,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,4,3,1,1,1,3,3,2,2,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,Yes,2,2,4,2,3,3,4,3,2,1,26,Moderate Stress
+23-26,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,3,4,2,3,3,2,1,2,1,2,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,1,4,3,2,0,2,3,2,3,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,Yes,2,2,2,3,4,4,0,1,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,3,3,2,3,4,1,2,0,3,2,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,2,1,2,3,3,0,1,2,3,1,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.40 - 3.79,No,4,2,2,2,2,2,2,2,2,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.40 - 3.79,No,1,2,2,4,1,3,1,1,3,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,2,3,1,2,3,2,3,3,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,4,4,3,4,2,4,2,4,2,1,30,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,4,1,4,1,3,3,2,2,3,3,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.00 - 2.49,No,1,2,0,0,4,1,3,3,2,3,19,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Biotecnología,Other,3.00 - 3.39,No,2,3,3,4,3,3,4,4,2,4,32,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,3,3,3,2,4,3,2,3,3,2,28,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Other,2.00 - 2.49,No,1,2,4,3,3,1,1,2,1,4,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,4,4,0,3,2,1,2,3,2,4,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.80 - 4.00,No,4,3,3,4,4,0,4,1,2,3,28,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.80 - 4.00,Yes,1,2,4,4,2,3,3,3,2,4,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,1,1,2,2,4,4,2,2,2,2,22,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.00 - 2.49,Yes,1,2,4,3,2,3,1,1,3,2,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,4,3,0,1,1,4,2,2,3,0,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,1,3,3,2,4,1,2,1,3,3,23,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Other,3.80 - 4.00,Yes,2,3,4,3,3,4,4,3,2,3,31,High Perceived Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,2,2,3,2,4,3,4,2,4,3,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.40 - 3.79,No,3,1,2,3,4,2,1,3,3,1,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,1,0,0,3,1,4,3,1,2,2,17,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.80 - 4.00,Yes,2,2,4,3,3,2,2,1,3,1,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,4,3,2,4,2,4,2,3,3,3,30,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,4,3,0,1,3,4,4,4,3,1,27,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,No,3,2,3,3,3,3,3,1,1,4,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,0,2,2,4,2,3,2,2,2,2,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,2,2,1,2,3,1,2,4,4,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,Yes,3,2,2,1,3,3,3,1,3,4,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,Yes,2,2,1,3,1,2,3,4,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.80 - 4.00,Yes,4,1,3,2,3,3,2,3,3,0,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,3,1,3,1,3,3,2,2,3,2,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,1,1,3,3,4,4,2,2,2,1,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.40 - 3.79,No,4,1,3,3,2,0,4,2,3,4,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.00 - 2.49,Yes,4,0,4,4,1,3,3,2,1,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,1,3,3,3,3,4,2,4,3,2,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,3,2,0,3,1,3,3,3,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,2,4,3,0,4,1,3,3,0,1,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,2,1,2,2,0,1,2,3,3,3,19,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,Yes,1,2,3,1,3,0,1,2,2,4,19,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,3,2,3,4,3,3,3,3,1,4,29,High Perceived Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,4,0,2,1,2,3,3,2,2,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,Yes,3,3,4,2,1,4,3,3,1,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.50 - 2.99,Yes,1,0,1,3,3,2,4,2,2,0,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.50 - 2.99,No,3,4,3,2,3,2,2,3,2,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,2.50 - 2.99,No,2,4,0,2,2,3,1,4,3,3,24,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.50 - 2.99,No,4,3,4,3,4,3,4,2,3,2,32,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,2,3,1,1,2,4,2,1,3,4,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,1,3,1,1,2,3,3,3,0,1,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,1,2,2,2,3,2,3,2,4,0,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,3,2,3,1,3,3,3,3,1,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,2,0,2,3,4,4,2,4,0,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,Yes,3,1,3,2,2,2,3,2,3,0,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.00 - 3.39,No,2,2,2,3,1,2,3,2,2,3,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.40 - 3.79,No,2,3,0,2,2,1,3,3,3,2,21,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,2,4,2,4,3,0,2,1,2,1,21,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,4,1,3,1,3,3,1,2,2,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,3.40 - 3.79,No,4,3,3,3,3,1,1,4,4,2,28,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Other,2.50 - 2.99,No,2,2,3,4,1,2,2,3,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,2,2,3,3,2,2,2,0,1,2,19,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.00 - 2.49,No,1,2,2,1,3,3,4,2,4,3,25,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,3,2,1,2,1,2,3,3,4,4,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,1,2,3,4,3,3,3,3,0,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.00 - 2.49,No,4,3,3,1,1,1,3,3,2,3,24,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,4,3,4,3,3,1,1,2,1,4,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,2.50 - 2.99,Yes,2,2,2,3,2,2,4,4,3,3,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.00 - 3.39,No,2,2,0,3,3,2,2,3,1,2,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.00 - 2.49,Yes,4,3,1,1,1,2,1,3,1,2,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,3,3,2,3,1,1,2,3,3,3,24,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,0,2,3,3,2,4,4,1,1,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,2.00 - 2.49,No,2,2,1,3,1,3,4,4,0,0,20,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,No,2,4,4,0,2,1,0,1,2,1,17,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,No,2,3,2,0,3,1,4,2,1,2,20,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,1,2,4,2,3,4,2,3,1,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,2.50 - 2.99,Yes,0,2,3,1,3,3,0,3,1,2,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,3,3,3,3,3,2,3,3,2,2,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,Yes,2,0,3,4,3,3,4,3,3,1,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,1,4,3,2,2,3,3,2,3,1,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.80 - 4.00,No,2,1,3,3,2,3,3,4,2,4,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,3,3,3,0,2,2,3,0,3,1,20,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,Yes,4,2,3,1,3,2,3,4,0,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,Yes,2,2,4,0,2,0,4,2,1,2,19,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,2,4,3,2,0,4,3,3,2,4,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.00 - 3.39,No,4,2,3,4,3,3,4,1,3,3,30,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,2,3,4,1,2,2,4,3,3,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,No,2,0,2,3,4,4,1,4,3,1,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Other,2.50 - 2.99,No,2,0,1,2,4,4,3,2,2,3,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Second Year or Equivalent,3.80 - 4.00,Yes,1,2,2,4,1,4,2,3,1,2,22,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,No,2,3,3,1,1,4,2,3,3,2,24,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,4,1,3,2,2,4,3,3,2,3,27,High Perceived Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,No,3,1,2,0,3,2,1,4,3,3,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,2,2,3,2,2,3,3,2,3,3,25,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.80 - 4.00,Yes,4,3,3,2,3,3,4,1,3,4,30,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,0,3,0,4,3,2,2,0,4,4,22,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,Yes,2,1,3,3,2,1,2,2,4,2,22,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,3,1,3,3,0,4,4,1,3,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,Other,2.00 - 2.49,Yes,3,4,1,3,3,2,2,3,3,0,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,2.50 - 2.99,No,0,2,3,1,2,4,2,1,2,4,21,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.00 - 3.39,No,2,4,3,2,3,0,2,0,4,1,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,2.50 - 2.99,No,3,4,1,4,2,0,3,0,2,4,23,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.40 - 3.79,No,3,3,1,3,3,2,3,3,1,2,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.80 - 4.00,No,3,1,4,4,4,2,3,3,2,2,28,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Other,3.00 - 3.39,Yes,2,3,2,3,4,3,2,2,1,0,22,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,2.50 - 2.99,No,1,3,2,1,2,3,3,4,3,2,24,Moderate Stress
+27-30,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,3.80 - 4.00,Yes,2,3,1,2,2,1,3,1,3,4,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,1,2,3,0,3,1,2,4,2,0,18,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,4,2,3,2,2,2,3,3,1,2,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,2,1,3,1,1,1,3,1,4,0,17,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.80 - 4.00,No,2,3,1,2,4,3,3,3,3,2,26,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.00 - 3.39,Yes,3,3,4,3,1,2,1,3,3,1,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,Yes,2,2,2,4,0,1,1,2,2,2,18,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,2,2,2,3,0,2,2,4,3,4,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,No,3,2,2,4,3,1,2,1,2,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.00 - 3.39,Yes,4,3,2,1,3,1,3,2,2,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,Yes,3,4,4,0,2,2,0,1,1,3,20,Moderate Stress
+23-26,Female,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.00 - 3.39,No,0,1,4,3,2,4,3,2,2,1,22,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,No,3,2,2,2,2,4,2,2,1,2,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,No,3,1,4,2,3,3,2,4,4,3,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,No,1,3,3,2,1,2,3,1,0,2,18,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.40 - 3.79,Yes,2,3,4,2,4,2,2,2,2,3,26,Moderate Stress
+23-26,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.40 - 3.79,No,4,4,2,3,2,3,4,3,2,2,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.40 - 3.79,No,0,2,3,2,4,3,1,4,2,3,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,Yes,3,4,2,3,1,4,2,4,3,4,30,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.00 - 2.49,Yes,2,1,3,3,3,1,3,3,1,1,21,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Other,3.00 - 3.39,No,2,3,0,2,2,0,3,4,3,2,21,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,0,1,3,2,1,3,2,3,2,2,19,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,Yes,3,4,2,1,4,3,2,4,3,1,27,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,3.40 - 3.79,No,2,3,2,2,4,3,3,3,3,3,28,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Other,3.00 - 3.39,No,3,3,3,3,2,3,4,1,4,3,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.00 - 3.39,No,3,3,4,3,3,4,4,2,3,2,31,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,3,1,3,3,3,3,2,3,3,3,27,High Perceived Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,No,4,0,4,2,4,4,4,2,2,1,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.00 - 3.39,No,3,4,2,3,2,4,0,2,3,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,2,2,3,3,3,3,0,3,3,3,25,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,2.50 - 2.99,No,4,1,2,2,2,2,3,4,4,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,2,0,3,2,1,1,0,1,2,15,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,No,2,3,3,2,4,3,1,3,2,3,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,2.50 - 2.99,No,1,0,3,3,1,2,2,3,3,2,20,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.80 - 4.00,No,3,2,3,3,1,4,2,4,2,3,27,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Nanotecnología,First Year or Equivalent,3.40 - 3.79,Yes,2,0,3,1,3,1,3,4,2,2,21,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.80 - 4.00,No,3,2,3,3,3,2,3,3,2,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,2,4,1,1,1,3,2,3,3,3,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Other,3.00 - 3.39,No,1,4,1,1,2,1,3,2,4,4,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,Yes,3,3,3,4,4,2,4,3,2,0,28,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,1,1,2,4,2,2,3,3,2,4,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Third Year or Equivalent,3.40 - 3.79,No,2,4,1,1,3,3,2,4,1,3,24,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,2.50 - 2.99,No,3,3,2,2,3,1,4,3,0,3,24,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Other,3.00 - 3.39,No,2,1,3,1,2,4,3,1,3,4,24,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,2.50 - 2.99,Yes,3,4,2,2,4,2,1,3,3,2,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,Yes,3,3,3,3,3,4,0,2,2,3,26,Moderate Stress
+18-22,Female,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,2.00 - 2.49,No,3,3,3,4,2,2,1,0,3,1,22,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,2.00 - 2.49,No,0,3,2,3,3,2,3,2,3,1,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.80 - 4.00,No,1,2,3,2,3,1,1,1,2,3,19,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Third Year or Equivalent,2.50 - 2.99,Yes,3,2,3,3,3,0,3,3,2,4,26,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,4,3,3,2,4,3,1,2,4,4,30,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.40 - 3.79,Yes,3,2,3,4,2,1,4,2,2,3,26,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Third Year or Equivalent,3.00 - 3.39,Yes,3,2,0,4,2,2,2,4,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,Other,2.50 - 2.99,Yes,2,3,3,3,2,3,4,2,2,2,26,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.40 - 3.79,No,2,3,2,2,0,2,4,0,3,4,22,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,Second Year or Equivalent,3.00 - 3.39,No,2,2,4,2,0,1,0,2,3,2,18,Moderate Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,Second Year or Equivalent,3.40 - 3.79,No,1,3,3,0,4,3,2,1,3,3,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Biotecnología,Third Year or Equivalent,3.40 - 3.79,No,0,3,3,3,3,4,0,1,4,3,24,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,First Year or Equivalent,3.80 - 4.00,Yes,4,3,2,2,3,1,4,1,4,3,27,High Perceived Stress
+18-22,Male,UTEQ,Licenciatura en Terapia Física,First Year or Equivalent,3.00 - 3.39,No,2,2,2,2,3,1,3,3,3,2,23,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Nanotecnología,Third Year or Equivalent,2.50 - 2.99,No,2,2,2,2,3,4,1,1,2,4,23,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Energías Renovables,First Year or Equivalent,3.00 - 3.39,No,1,2,2,3,2,0,1,2,2,3,18,Moderate Stress
+18-22,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.00 - 2.49,Yes,4,1,2,1,4,4,2,4,3,4,29,High Perceived Stress
+18-22,Female,UTEQ,Ingeniería en Biotecnología,Second Year or Equivalent,3.40 - 3.79,No,3,2,3,4,2,0,4,2,3,0,23,Moderate Stress
+23-26,Female,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,3,2,1,4,4,4,3,4,1,3,29,High Perceived Stress
+18-22,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,2.50 - 2.99,No,4,2,4,4,3,2,4,2,1,3,29,High Perceived Stress
+27-30,Male,UTEQ,Ingeniería en Desarrollo de Software,Second Year or Equivalent,3.40 - 3.79,No,2,4,1,2,2,4,2,2,3,3,25,Moderate Stress
+18-22,Male,UTEQ,Ingeniería en Biotecnología,First Year or Equivalent,3.00 - 3.39,Yes,3,1,4,2,3,2,0,3,2,4,24,Moderate Stress
